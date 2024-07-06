@@ -34,7 +34,7 @@ func main() {
 		MaxAge:           300,
 	}),
 	)
-	//7.6.19 https://www.youtube.com/watch?v=un6ZyFkqFKo
+	//7.12.22 https://www.youtube.com/watch?v=un6ZyFkqFKo
 	v1Router := chi.NewRouter()
 
 	v1Router.Get("/healthz", handlerReadiness)
