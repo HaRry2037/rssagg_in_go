@@ -4,3 +4,5 @@ rssagg
 thunder-tests/
 rssagg.exe
 package.sh
+postgresc.sh
+pgadmin.sh
